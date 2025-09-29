@@ -1,0 +1,41 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+
+.navbar-custom {
+    background-color: #10161dff;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+
+.hero-section {
+    background-color: rgb(255, 255, 255); 
+    background-size: cover;
+    background-position: center;
+    color: rgb(8, 8, 8); 
+    
+}
+
+.btn-outline-neon {
+    color: var(--neon-pink);
+    border: 2px solid var(--neon-pink);
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+.btn-outline-neon:hover {
+    background-color: var(--neon-pink);
+    color: #ffffff;
+    box-shadow: 0 0 15px var(--neon-pink);
+}
+
+
+:root {
+    --navbar-bg-color: #182838;
+    --text-light: #ffffff;
+    --neon-cyan: #00ffff;
+    --neon-pink: #5c40d8;
+}
