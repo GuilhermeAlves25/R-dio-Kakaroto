@@ -3,7 +3,7 @@
 
 ## Sobre o Projeto
 
-Este projeto é um site institucional para a rádio fictícia "Rádio Kakaroto". Foi desenvolvido como parte da atividade do curso Analise e desenvolvimento de sistemas, com o objetivo de aplicar conceitos de HTML5, CSS3 e o framework Bootstrap 5.
+Este projeto é um site para a rádio fictícia "Rádio Kakaroto". Foi desenvolvido como parte da atividade do curso Analise e desenvolvimento de sistemas, com o objetivo de aplicar conceitos de HTML5, CSS3 e o framework Bootstrap 5.
 
 O foco principal foi a criação de uma interface responsiva, acessível e funcional, seguindo um escopo definido e utilizando apenas os componentes e o bundle JavaScript nativos do Bootstrap, sem a necessidade de scripts personalizados.
 
