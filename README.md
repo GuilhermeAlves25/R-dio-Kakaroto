@@ -41,7 +41,7 @@ Existem duas maneiras de visualizar o projeto:
    3. Abra o arquivo `index.html` em qualquer navegador de sua preferência.
 
 **2. Online:**
-   * O site está publicado e pode ser acessado através do link: **https://guilhermealves25.github.io/R-dio-Kakaroto/index.html**
+   * O site está publicado e pode ser acessado através do link: **https://guilhermealves25.github.io/RadioKakaroto/**
 
 ---
 
